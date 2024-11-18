@@ -52,7 +52,7 @@ Portfolio management and asset allocation
     ·
     <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/blob/main/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/blob/classic/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
   </p>
 </div>
 
