@@ -50,7 +50,7 @@ Portfolio management and asset allocation
     <br />
     <a href="https://emzycash-portfolio.streamlit.app/">View Demo</a>
     ·
-    <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/blob/main/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
   </p>
