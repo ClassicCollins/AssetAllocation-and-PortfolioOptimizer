@@ -183,7 +183,7 @@ Ensure you have Python installed and then run:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ClassicCollins/portfolio-optimization.git
+   git clone https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer.git
    ```
 2. Install required packages
    ```sh
@@ -191,7 +191,7 @@ Ensure you have Python installed and then run:
    ```
 3. Run the Notebook: Open the notebook in Jupyter and run the cells to reproduce the analysis:
    ```sh
-   jupyter notebook Portfolio_optimization.ipynb
+   jupyter notebook AssetAllocation-and-PortfolioOptimizer.ipynb
    ```
 4. Change git remote url to avoid accidental pushes to base project
    ```sh
@@ -219,7 +219,7 @@ For more explanation on Portfolio optimization and Efficient frontier, please wa
 - [x] Add back to top links
 - [ ] Build a ten asset portfolio
 
-See the [open issues](https://github.com/ClassicCollins/portfolio-optimization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ClassicCollins/AssetAllocation-and-PortfolioOptimizer/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
