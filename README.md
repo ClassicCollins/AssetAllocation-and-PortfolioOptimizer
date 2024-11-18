@@ -256,7 +256,7 @@ Distributed under the MIT License. See `LICENSE.txt` at the top for more informa
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https://github.com/ClassicCollins/portfolio-optimization)
+Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https://www.datascienceportfol.io/collinsugwuozor/projects/3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
